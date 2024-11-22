@@ -1,1 +1,1 @@
-Coding bootcamp HTML and CSS progject @nobledestop
+Coding bootcamp HTML and CSS project @nobledestop
